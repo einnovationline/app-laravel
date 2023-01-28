@@ -2,7 +2,9 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-> :construction: Projeto em construção :construction:
+> :construction: project in by me :construction:
+
+<img src="https://avatars.githubusercontent.com/u/112901428?s=400&u=e22d3f320aedbcda26c2f9b14b71d4f11556f475&v=4" width=115><br><sub></sub>
 
 ### Passo a passo
 Clone Repositório
